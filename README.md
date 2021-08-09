@@ -3,7 +3,7 @@
 ## Android app for Caesar Cipher <br>
 
 ```
-CONTACT FOR PROGRAM CODE
+CONTACT FOR CODE
 Discord: BloodRine#7380
 Email: pratikkumar1406@protonmail.com
 ```
